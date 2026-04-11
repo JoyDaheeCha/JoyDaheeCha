@@ -1,6 +1,6 @@
-### Hi, I am Joy 👋
+### 안녕하세요. 라오나 서비스 운영자 차다희입니다. 👋
 
-6년차 개발자. Spring/Java로 시작해 지금은 Next.js + Vercel로 직접 만들고 싶었던 것들을 세상에 내놓고 있습니다.
+7년차 개발자. Spring/Java로 시작해 지금은 Next.js + Vercel로 직접 만들고 싶었던 것들을 세상에 내놓고 있습니다.
 
 > *Your Life, Your Pace.*
 
