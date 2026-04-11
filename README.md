@@ -27,7 +27,11 @@
 
 #### 기술
 
-`Java` `Spring` `JPA` `Next.js` `TypeScript` `React` `Electron` `Tailwind CSS` `Vercel` `Supabase` `Notion API`
+`Java` `Spring` `Kafka` `MySQL` `EDA`
+
+#### 바이브 코딩 스택
+
+`Next.js` `TypeScript` `React` `Electron` `Tailwind CSS` `Vercel` `Supabase` `Notion API`
 
 ---
 
