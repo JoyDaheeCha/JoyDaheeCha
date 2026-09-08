@@ -15,12 +15,6 @@
 
 `Java` `Spring` `Kafka` `MySQL` `EDA`
 
-#### 바이브 코딩 스택
-
-`Next.js` `TypeScript` `React` `Electron` `Tailwind CSS` `Vercel` `Supabase` `Notion API`
-
----
-
 #### 글
 
 ✍️ [velog.io/@daheecha0612](https://velog.io/@daheecha0612/posts)
