@@ -4,6 +4,9 @@
 
 > *Your Life, Your Pace.*
 
+#### 포트폴리오
+https://github.com/JoyDaheeCha/order-platform 
+
 #### 관심사
 
 **Barrier Free** — 국적, 언어, 경제적 상황과 관계없이 누구에게나 기회가 있는 세상을 만들고 싶습니다.  
